@@ -5,4 +5,5 @@ streamlit==1.18.1
 python-dotenv==1.0.0
 faiss-cpu==1.7.4
 huggingface-hub==0.15.1
+htmltemplate==2.2.1
 altair<5
